@@ -1,5 +1,5 @@
 ﻿
-namespace NguyenManhHoai_5951071029
+namespace TuongVanTienLuc_5951071055
 {
     partial class Form1
     {
